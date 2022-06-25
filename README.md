@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Over 3 years of experience coding technically web systems, and microservices. <br>- Proficient in .Net core, Azure Services, SQL, HTML/JS/CSS<br>
+- Over 3 years of experience coding technically web systems, and microservices.
+- Proficient in .Net core, Azure Services, SQL, HTML/JS/CSS<br>
 
 
 ## 🌐 Socials:
